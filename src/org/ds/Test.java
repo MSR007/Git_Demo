@@ -10,6 +10,7 @@ public class Test {
 		System.out.println(1<<16);
 		System.out.println(28>>>2);
 		System.out.println(1024*64);
+		System.out.println("hi");
 	}
 
 }
